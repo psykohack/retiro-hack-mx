@@ -8,3 +8,4 @@ Allende, Guanajuato.
 * [Lista de Participantes](participantes.md)
 
 Organizado por [Codeando México](http://codeandomexico.org) y [Guanajuato Colabora](http://gtocolabora.org/).
+.
